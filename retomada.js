@@ -1,36 +1,46 @@
+alert("Alert!!!")
+
 function img1(){
     var img = document.querySelector("#img10")
     img.setAttribute('src', 'img1.jpeg')
 }
 
-function img02(){
-    
+function img2(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img2.jpeg')
 }
 
-function img03(){
-    
+function img3(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img3.jpg')
 }
 
-function img04(){
-    
+function img4(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img4.jpg')
 }
 
-function img05(){
-    
+function img5(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img5.jpg')
 }
 
-function img06(){
-    
+function img6(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img6.jpg')
 }
 
-function img07(){
-    
+function img7(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img7.jpg')
 }
 
-function img08(){
-    
+function img8(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img8.jpg')
 }
 
-function img09(){
-    
+function img9(){
+    var img = document.querySelector("#img10")
+    img.setAttribute('src', 'img9.jpg')
 }
