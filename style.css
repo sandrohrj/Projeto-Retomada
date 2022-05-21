@@ -5,82 +5,86 @@
 }
 
 body {
-    background-color: darkcyan;
+    background-color: lightslategray;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    color: white;
 }
 
 .global {
-    display: flex;
+    /*display: flex;*/
 }
 
 .esquerda {
+    text-align: center;
     margin: 20px;
     padding: 5px;
-    position: absolute;
+    
+    /*position: absolute;
     top: 30px;
-    left: 150px;
+    left: 150px;*/
 }
 
 .direita {
-
+    text-align: center;
 }
 
 .img1 {
-    position: absolute;
+    border-radius: 5%;
+    /*position: absolute;
     top: 50px;
-    right: 500px;
+    right: 500px;*/
 }
 
 .img2 {
-    position: absolute;
-    top: 50px;
-    right: 300px;
+    border-radius: 5%;
 }
 
 .img3 {
-    position: absolute;
-    top: 50px;
-    right: 100px;
+    border-radius: 5%;
 }
 
 .img4 {
-    position: absolute;
-    top: 235px;
-    right: 500px;
+    border-radius: 5%;
 }
 
 .img5 {
-    position: absolute;
-    top: 235px;
-    right: 300px;
+    border-radius: 5%;
 }
 
 .img6 {
-    position: absolute;
-    top: 235px;
-    right: 100px;
+    border-radius: 5%;
 }
 
 .img7 {
-    position: absolute;
-    top: 420px;
-    right: 500px;
+    border-radius: 5%;
 }
 
 .img8 {
-    position: absolute;
-    top: 420px;
-    right: 300px;
+    border-radius: 5%;
 }
 
 .img9 {
-    position: absolute;
-    top: 420px;
-    right: 100px;
+    border-radius: 5%;
 }
 
-.direita:hover{
+.img10 {
+    border: solid 4px darkgoldenrod ;
+}
+
+.direita:hover {
 
 }
 
-.img-Direita:hover{
+.img-Direita:hover {
+
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: white;
 }
