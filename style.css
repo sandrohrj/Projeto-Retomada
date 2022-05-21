@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkcyan;
+}
+
+.global {
+    display: flex;
+}
+
+.esquerda {
+    margin: 20px;
+    padding: 5px;
+    position: absolute;
+    top: 60px;
+    left: 150px;
+}
+
+.direita {
+
+}
+
+.img1 {
+    position: absolute;
+    top: 50px;
+    right: 500px;
+}
+
+.img2 {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.img3 {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
+.img4 {
+    position: absolute;
+    top: 235px;
+    right: 500px;
+}
+
+.img5 {
+    position: absolute;
+    top: 235px;
+    right: 300px;
+}
+
+.img6 {
+    position: absolute;
+    top: 235px;
+    right: 100px;
+}
+
+.img7 {
+    position: absolute;
+    top: 420px;
+    right: 500px;
+}
+
+.img8 {
+    position: absolute;
+    top: 420px;
+    right: 300px;
+}
+
+.img9 {
+    position: absolute;
+    top: 420px;
+    right: 100px;
+}
+
+.direita:hover{
+
+}
+
+.img-Direita:hover{
+}
