@@ -1,4 +1,4 @@
-alert("Alert!!!")
+
 
 function img1(){
     var img = document.querySelector("#img10")
